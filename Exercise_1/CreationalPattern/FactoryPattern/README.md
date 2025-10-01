@@ -25,6 +25,9 @@ This makes the code **flexible, extensible, and easy to maintain**.
 - **Factory Pattern** → `CarFactory` decides which object to create based on user input.  
 
 ---
+## Sample input and output:
+
+<img width="717" height="240" alt="{8F1B62CD-7590-4C23-B13B-67D5CBB15B0D}" src="https://github.com/user-attachments/assets/1d28af88-c190-4d31-8792-d5194c55ce99" />
 
 ## How to Run  
 
