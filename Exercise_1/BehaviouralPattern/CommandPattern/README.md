@@ -27,7 +27,7 @@ This is a **beginner-friendly implementation** to understand how the **Command P
 
 1. Compile all Java files:  
    ```bash
-   javac src/*.java
+   javac *.java
 
 2. Run the application:
    ```bash
