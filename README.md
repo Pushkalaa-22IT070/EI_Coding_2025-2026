@@ -1,6 +1,6 @@
 # EI_Coding_2025-2026
 
-## Exercise 1 - Problem Statement of Design patterns
+## Exercise 1 - Problem Statement on Design patterns
 ```
 1. Two use cases to demonstrate two behavioural design pattern.
    -**Command Pattern** - Light Switch Invoker
