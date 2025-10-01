@@ -28,6 +28,11 @@ The **abstraction (RemoteControl)** is separated from the **implementation (Devi
 
 ---
 
+## Sample input and output:
+
+<img width="744" height="132" alt="{AE9A1B65-50FA-42BE-89D0-54E6D3132732}" src="https://github.com/user-attachments/assets/dedb29cd-154e-4378-b31f-1a8152ac97a1" />
+
+
 ## How to Run  
 
 1. Compile all Java files:  
