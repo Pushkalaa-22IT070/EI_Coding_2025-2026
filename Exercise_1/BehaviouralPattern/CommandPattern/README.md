@@ -23,6 +23,11 @@ This is a **beginner-friendly implementation** to understand how the **Command P
 
 ---
 
+## Sample input and output
+
+<img width="957" height="935" alt="{7940CE1E-042F-481D-B601-430F6558AB07}" src="https://github.com/user-attachments/assets/4124de22-1b3a-4337-bdd6-977ee8dd9d62" />
+
+
 ## How to Run  
 
 1. Compile all Java files:  
