@@ -23,6 +23,10 @@ A small delay is added between songs to simulate real music playback.
 
 ---
 
+## Sample input and output:
+
+<img width="618" height="105" alt="{E9E61F6D-9A9C-4B19-927D-AB72F8E4C318}" src="https://github.com/user-attachments/assets/9234bf67-0285-4f71-90b3-f4fadc615152" />
+
 ## How to Run  
 
 1. Compile all Java files:  
