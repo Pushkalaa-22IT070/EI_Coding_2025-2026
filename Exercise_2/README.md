@@ -68,6 +68,18 @@ Room 2 - Capacity: 10, Occupied: false, Booked: false, Occupancy: 0, Lights: OFF
 Room 3 - Capacity: 10, Occupied: false, Booked: false, Occupancy: 0, Lights: OFF, AC: OFF
 ```
 
+## Sample Edge Cases
+
+- Exceeding maximum capacity
+![WhatsApp Image 2025-10-01 at 19 36 41_9f91619f](https://github.com/user-attachments/assets/8eb08be8-60a6-4cef-b30c-c61a9604afb6)
+
+- Room booking conflict
+![WhatsApp Image 2025-10-01 at 19 37 44_6b6e2d82](https://github.com/user-attachments/assets/deb04d73-8ef5-4a01-9fdb-fd22cd295fe9)
+
+- Autorelease when not occupied
+<img width="1073" height="370" alt="{10B8C337-2A3A-45FD-9F13-2DB0B58FB472}" src="https://github.com/user-attachments/assets/d3643de4-28bb-4b64-b22e-784a2d2050a2" />
+
+
 ## Class Structure
 
 - `SmartOfficeApp` - Main application entry point
