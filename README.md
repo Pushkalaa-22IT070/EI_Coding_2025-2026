@@ -4,16 +4,19 @@
 
 1. Two use cases to demonstrate two behavioural design pattern.
 
-   -**Command Pattern** - Light Switch Invoker
-   -**Iterator Pattern** - Music Playlist
+   **Command Pattern** - Light Switch Invoker
+   
+   **Iterator Pattern** - Music Playlist
 2. Two use cases to demonstrate two creational design pattern.
 
-   -**Factory Pattern** - Car Factory
-   -**Singleton Pattern** - Printer Spooler
+   **Factory Pattern** - Car Factory
+   
+   **Singleton Pattern** - Printer Spooler
 3. Two use cases to demonstrate two structural design pattern.
    
-   -**Adapter Pattern** - Media Player
-   -**Bridge Pattern** - Remote Control
+   **Adapter Pattern** - Media Player
+   
+   **Bridge Pattern** - Remote Control
 
 
 ## Exercise 2 - Mini Project
