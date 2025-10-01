@@ -51,7 +51,7 @@ The **Printer Spooler** ensures that only one instance manages the print queue a
 
 1. Compile all Java files:  
    ```bash
-   javac src/*.java
+   javac *.java
 
 2. Run the application:
    ```bash
