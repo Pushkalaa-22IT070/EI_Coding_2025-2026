@@ -29,7 +29,7 @@ public class Main {
             int choice = Integer.parseInt(sc.nextLine().trim());
 
             if (choice == 3) {
-                System.out.println("Exiting... 👋");
+                System.out.println("Exiting...");
                 logger.info("User exited program.");
                 sc.close();
                 return;
@@ -40,13 +40,13 @@ public class Main {
                 invoker.setCommand(cmd);
                 invoker.pressButton();
             } else {
-                System.out.println("⚠️ Invalid choice.");
+                System.out.println("Invalid choice.");
             }
 
             showMenu(); // recursion
 
         } catch (NumberFormatException e) {
-            System.out.println("⚠️ Please enter a valid number (1-3).");
+            System.out.println("Please enter a valid number (1-3).");
             showMenu(); // try again
         }
     }
