@@ -46,6 +46,10 @@ The **Printer Spooler** ensures that only one instance manages the print queue a
 
 
 ---
+## Sample input and output:
+
+<img width="702" height="797" alt="{63AA8D4B-FB11-4732-9218-C7C68E14DC26}" src="https://github.com/user-attachments/assets/90d711c1-30b6-466d-a052-5160de2855f5" />
+
 
 ## How to Run  
 
