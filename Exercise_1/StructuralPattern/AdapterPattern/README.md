@@ -30,6 +30,11 @@ The base media player supports only **MP3** format. Using an **Adapter**, it can
 
 ---
 
+## Sample input and output:
+
+<img width="670" height="113" alt="{C4AF6CAB-F4FF-4BE0-89CF-FB7D38D7AB71}" src="https://github.com/user-attachments/assets/cd53f88a-3733-4f05-aa0b-1d56455f1d9f" />
+
+
 ## How to Run  
 
 1. Compile all Java files:  
