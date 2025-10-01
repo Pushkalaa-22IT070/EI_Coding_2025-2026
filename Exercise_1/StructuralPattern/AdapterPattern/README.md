@@ -34,7 +34,7 @@ The base media player supports only **MP3** format. Using an **Adapter**, it can
 
 1. Compile all Java files:  
    ```bash
-   javac src/*.java
+   javac *.java
 
 2. Run the application:
    ```bash

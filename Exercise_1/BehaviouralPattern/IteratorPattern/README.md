@@ -27,7 +27,7 @@ A small delay is added between songs to simulate real music playback.
 
 1. Compile all Java files:  
    ```bash
-   javac src/*.java
+   javac *.java
 
 2. Run the application:
    ```bash

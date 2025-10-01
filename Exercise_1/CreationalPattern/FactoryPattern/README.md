@@ -30,7 +30,7 @@ This makes the code **flexible, extensible, and easy to maintain**.
 
 1. Compile all Java files:  
    ```bash
-   javac src/*.java
+   javac *.java
 
 2. Run the application:
    ```bash
